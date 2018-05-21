@@ -1,4 +1,4 @@
-# Data Science Notebooks
+# Machine Learning and Data Science Notebooks
 This a collection of Data Science and Machine Learning related projects and notes. Some projects go from start to finish while other are under construction. Notes were written for self reference but decided to add them to this repo in case someone else might find them useful.
 
 If you find any info in these notebooks that is either inaccurate or unclear, please do not hesitate to contact me / raise an issue / fix it and send a pull request :).
